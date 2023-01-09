@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/harshnaikwade" target="blank"><img src="https://img.shields.io/twitter/follow/harshnaikwade?logo=twitter&style=for-the-badge" alt="harshnaikwade" /></a> </p>
 
-- 🔭 I’m currently working on ****AI Chatbot****
+- 🔭 I’m currently working on ****Database Management System****
 
-- 🌱 I’m currently learning ****Data Structures and Algorithms****
+- 🌱 I’m currently learning ****MongoDB****
 
 - 👨‍💻 All of my projects are available at [harshnaikwade.github.io/](harshnaikwade.github.io/)
 
