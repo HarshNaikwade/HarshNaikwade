@@ -20,5 +20,6 @@
 ```
 [![LinkedIn/HarshNaikwade](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/HarshNaikwade/)
+[![Google Cloud Profile](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/9ada0bf4-5332-45f4-ab09-84a9590be805)
 [![harshnaikwade.work@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:harshnaikwade.work@gmail.com)
